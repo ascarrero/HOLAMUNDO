@@ -1,0 +1,17 @@
+
+ 	.jumbotron {
+
+ 		background-color: #f26cc3;
+ 		color: #ffffff;
+ 		padding:100px 25px
+ 		font-family:sans-serif;
+ 		text-align: center;
+ 	}
+ 	.container-fluid {
+ 		padding: 40px 50px
+ 	}
+
+ 	.bg-grey{
+ 		background-color:  #93b1bf
+ 	}
+	
